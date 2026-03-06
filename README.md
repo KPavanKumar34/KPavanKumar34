@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Pavan</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | Automation</h3>
+<h3 align="center">🚀 A Passionate DevOps Engineer </h3>
 
 ---
 
 ### 👨‍💻 About Me
-Passionate DevOps Engineer with expertise in **Linux, Cloud, CI/CD, and Infrastructure Automation**. Skilled in **AWS, GCP, Kubernetes, Terraform, Jenkins, and Docker**. Currently driving strategic infrastructure initiatives at **Infosys**.
+DevOps Engineer with expertise in **Linux, Cloud, CI/CD, and Infrastructure Automation**. Skilled in **AWS, GCP, Kubernetes, Terraform, Jenkins, and Docker**. Currently driving strategic infrastructure initiatives at **Infosys**.
 
 💬 Ask me about **Linux, Git, GitHub, Ansible, Jenkins, Docker, Kubernetes, AWS, and GCP**  
 🌱 Expanding expertise in **Terraform modular setups, advanced Kubernetes troubleshooting, and Azure Cloud services**
