@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-DevOps Engineer with expertise in **Linux, Cloud, CI/CD, and Infrastructure Automation**. Skilled in **AWS, GCP, Kubernetes, Terraform, Jenkins, and Docker**. Currently driving strategic infrastructure initiatives at **Infosys**.
+Expertise in **Linux, Cloud, CI/CD, and Infrastructure Automation**. Skilled in **AWS, GCP, Kubernetes, Terraform, Jenkins, and Docker**. Currently driving strategic infrastructure initiatives at **Infosys**.
 
 💬 Ask me about **Linux, Git, GitHub, Ansible, Jenkins, Docker, Kubernetes, AWS, and GCP**  
 🌱 Expanding expertise in **Terraform modular setups, advanced Kubernetes troubleshooting, and Azure Cloud services**
